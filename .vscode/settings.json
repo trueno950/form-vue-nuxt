@@ -1,0 +1,11 @@
+{
+    "exportall.config.folderListener": [
+        "/enums"
+    ],
+    "exportall.config.relExclusion": [
+        "/enums"
+    ],
+    "cSpell.words": [
+        "toastification"
+    ]
+}
